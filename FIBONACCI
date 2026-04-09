@@ -1,3 +1,5 @@
+//Sofia Cornea Peralta 
+
 Console.OutputEncoding = System.Text.Encoding.UTF8;
 int termos, t1 = 0, t2 = 1, t3 = 0;
 Console.WriteLine("MÉTODO FIBONACCI");
