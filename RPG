@@ -1,0 +1,13 @@
+// See https://aka.ms/new-console-template for more information
+string nomeHeroi = "Zeus";
+int ataqueBase = 30;
+int bonusArma = 20;
+int ataqueTotal = ataqueBase + bonusArma;
+double vidaInimigo = 150.5;
+double vidaRestante = vidaInimigo - 50.5;
+float moedas = 100.5f;
+var moedasFinais = moedas * 2;
+long xpTotal = 9000000000;
+long mediaXp = xpTotal / 2;
+bool entendiMateria = true;
+Console.WriteLine("Herói: " + nomeHeroi);
