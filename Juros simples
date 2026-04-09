@@ -1,3 +1,5 @@
+// Sofia Cornea Peralta
+
 Console.WriteLine("--- Calculadora de Juros Simples ---");
 
 try
