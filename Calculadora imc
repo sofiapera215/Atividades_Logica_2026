@@ -1,4 +1,6 @@
-﻿Console.OutputEncoding = System.Text.Encoding.UTF8;
+//Sofia Cornea Peralta 
+
+Console.OutputEncoding = System.Text.Encoding.UTF8;
 
 Console.WriteLine("Bem vindo á calculadora de imc");
 Console.WriteLine("Digite seu peso: ");
