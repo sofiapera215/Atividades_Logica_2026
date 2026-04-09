@@ -1,3 +1,6 @@
+// Sofia Cornea Peralta
+
+
 Console.OutputEncoding = System.Text.Encoding.UTF8;
         /*Digitar o valor do raio e trazer o calculo da área do circulo*/
         Console.Write("Digite o valor do Raio: ");
