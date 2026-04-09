@@ -1,3 +1,5 @@
+//Sofia Cornea Peralta 
+
 Console.WriteLine("--- Calculadora de Raiz Quadrada ---");
 
 Console.Write("Digite um número: ");
