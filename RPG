@@ -1,3 +1,6 @@
+// Sofia Cornea Peralta
+
+
 // See https://aka.ms/new-console-template for more information
 string nomeHeroi = "Zeus";
 int ataqueBase = 30;
